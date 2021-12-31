@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Michael1271
 - 👀 I’m interested in ...
 - 🌱 I’m currently working in an AI automative startup
-- 📫 How to reach me: By mail, Phone
+- 📫 How to reach me: By mail
 
 <!---
 Michael1271/Michael1271 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
